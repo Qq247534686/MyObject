@@ -1,0 +1,45 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\quartz_jobs.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\log4net.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\quartz.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.Log4Net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.NLog.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\log4net.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\bin\Debug\Quartz.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\obj\Debug\Quartz+Topshelf.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\obj\Debug\Quartz+Topshelf.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz+Topshelf\obj\Debug\Quartz+Topshelf.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.exe.config
+G:\Work\MyObject\Quartz+Topshelf\obj\Debug\Quartz+Topshelf.exe
+G:\Work\MyObject\Quartz+Topshelf\obj\Debug\Quartz+Topshelf.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\quartz_jobs.xml
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\log4net.config
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\quartz.config
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.exe
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz+Topshelf.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\log4net.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.Log4Net.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Topshelf.NLog.dll
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.xml
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Common.Logging.Core.xml
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\log4net.xml
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz.pdb
+G:\Work\MyObject\Quartz+Topshelf\bin\Debug\Quartz.xml

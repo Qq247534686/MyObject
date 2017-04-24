@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file contains job definitions in schema version 2.0 format -->
+
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+
+  <schedule>
+    <!--job 任务-->
+    <!--TestJob测试 任务配置-->
+    <job>
+      <name>TestJob</name>
+      <group>Test</group>
+      <description>12323测试</description>
+      <job-type>Quartz_Topshelf.TestJob,Quartz+Topshelf</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+    </job>
+    <!--
+name(必填) 任务名称，同一个group中多个job的name不能相同，若未设置group则所有未设置group的job为同一个分组，如:<name>sampleJob</name>
+group(选填) 任务所属分组，用于标识任务所属分组，如:<group>sampleGroup</group>
+description(选填) 任务描述，用于描述任务具体内容，如:<description>Sample job for Quartz Server</description>
+job-type(必填) 任务类型，任务的具体类型及所属程序集，格式：实现了IJob接口的包含完整命名空间的类名,程序集名称，如:<job-type>Quartz.Server.SampleJob, Quartz.Server</job-type>
+durable(选填) 具体作用不知，官方示例中默认为true，如:<durable>true</durable>
+recover(选填) 具体作用不知，官方示例中默认为false，如:<recover>false</recover>
+    -->
+    <!--trigger 任务触发器-->
+    <trigger>
+      <cron>
+        <name>TestJobTrigger</name>
+        <group>Test</group>
+        <job-name>TestJob</job-name>
+        <job-group>Test</job-group>
+        <start-time>2015-01-22T00:00:00+08:00</start-time>
+        <cron-expression>0/3 * * * * ?</cron-expression>
+      </cron>
+      <!--<simple>
+        <name>Test1</name>
+        <group>Group1</group>
+        <description>任务1</description>
+      </simple>-->
+    </trigger>
+    <!--详情：http://www.cnblogs.com/jys509/p/4628926.html-->
+  </schedule>
+</job-scheduling-data>

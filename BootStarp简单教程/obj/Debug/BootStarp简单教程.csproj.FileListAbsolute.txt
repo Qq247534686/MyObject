@@ -1,0 +1,5 @@
+F:\Work\MyObject\BootStarp简单教程\bin\BootStarp简单教程.dll.config
+F:\Work\MyObject\BootStarp简单教程\bin\BootStarp简单教程.dll
+F:\Work\MyObject\BootStarp简单教程\bin\BootStarp简单教程.pdb
+F:\Work\MyObject\BootStarp简单教程\obj\Debug\BootStarp简单教程.dll
+F:\Work\MyObject\BootStarp简单教程\obj\Debug\BootStarp简单教程.pdb

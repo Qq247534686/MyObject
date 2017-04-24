@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\RedisDemo.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\RedisDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\RedisDemo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\obj\Debug\RedisDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\obj\Debug\RedisDemo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\ServiceStack.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\bin\Debug\ServiceStack.ServiceInterface.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+G:\Work\MyObject\RedisDemo\bin\Debug\RedisDemo.exe.config
+G:\Work\MyObject\RedisDemo\bin\Debug\RedisDemo.exe
+G:\Work\MyObject\RedisDemo\bin\Debug\RedisDemo.pdb
+G:\Work\MyObject\RedisDemo\bin\Debug\ServiceStack.dll
+G:\Work\MyObject\RedisDemo\bin\Debug\ServiceStack.Interfaces.dll
+G:\Work\MyObject\RedisDemo\bin\Debug\ServiceStack.ServiceInterface.dll
+G:\Work\MyObject\RedisDemo\obj\Debug\RedisDemo.exe
+G:\Work\MyObject\RedisDemo\obj\Debug\RedisDemo.pdb

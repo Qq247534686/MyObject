@@ -1,0 +1,56 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Quartz.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Quartz.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Quartz.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Quartz.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\obj\Debug\Quartz.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\obj\Debug\Quartz.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Core.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Quartz.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\bin\Debug\log4net.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache
+G:\Work\MyObject\Quartz\bin\Debug\Quartz.exe.config
+G:\Work\MyObject\Quartz\bin\Debug\Quartz.exe
+G:\Work\MyObject\Quartz\bin\Debug\Quartz.pdb
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Core.dll
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.dll
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.dll
+G:\Work\MyObject\Quartz\bin\Debug\log4net.dll
+G:\Work\MyObject\Quartz\bin\Debug\Quartz.dll
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.pdb
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.xml
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Core.pdb
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Core.xml
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.pdb
+G:\Work\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.xml
+G:\Work\MyObject\Quartz\bin\Debug\log4net.xml
+G:\Work\MyObject\Quartz\bin\Debug\Quartz.xml
+G:\Work\MyObject\Quartz\obj\Debug\Quartz.exe
+G:\Work\MyObject\Quartz\obj\Debug\Quartz.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Quartz.exe.config
+E:\Work\MyObject\MyObject\Quartz\obj\Debug\Quartz.exe
+E:\Work\MyObject\MyObject\Quartz\obj\Debug\Quartz.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Quartz.exe
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Quartz.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Core.dll
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.dll
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.dll
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\log4net.dll
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Quartz.dll
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.xml
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Core.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Core.xml
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.pdb
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Common.Logging.Log4Net1211.xml
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\log4net.xml
+E:\Work\MyObject\MyObject\Quartz\bin\Debug\Quartz.xml
+E:\Work\MyObject\MyObject\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache

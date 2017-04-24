@@ -1,0 +1,14 @@
+G:\Work\MyObject\线程池\bin\Debug\线程池.exe
+G:\Work\MyObject\线程池\bin\Debug\线程池.exe.config
+G:\Work\MyObject\线程池\obj\Debug\线程池.csprojResolveAssemblyReference.cache
+G:\Work\MyObject\线程池\obj\Debug\线程池.exe
+G:\Work\MyObject\线程池\obj\Debug\线程池.pdb
+F:\Work\MyObject\线程池\bin\Debug\线程池.exe.config
+F:\Work\MyObject\线程池\bin\Debug\线程池.exe
+F:\Work\MyObject\线程池\bin\Debug\线程池.pdb
+F:\Work\MyObject\线程池\obj\Debug\线程池.csprojResolveAssemblyReference.cache
+F:\Work\MyObject\线程池\obj\Debug\线程池.exe
+F:\Work\MyObject\线程池\obj\Debug\线程池.pdb
+E:\Work\MyObject\MyObject\线程池\bin\Debug\线程池.exe.config
+E:\Work\MyObject\MyObject\线程池\obj\Debug\线程池.exe
+E:\Work\MyObject\MyObject\线程池\obj\Debug\线程池.pdb

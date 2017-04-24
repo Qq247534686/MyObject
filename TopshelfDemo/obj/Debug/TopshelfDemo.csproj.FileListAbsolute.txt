@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\TopshelfDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\TopshelfDemo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\Topshelf.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\Topshelf.Log4Net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\obj\Debug\TopshelfDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\obj\Debug\TopshelfDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\obj\Debug\TopshelfDemo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\log4net.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyObject\TopshelfDemo\bin\Debug\log4net.config
+G:\Work\MyObject\TopshelfDemo\bin\Debug\log4net.config
+G:\Work\MyObject\TopshelfDemo\bin\Debug\TopshelfDemo.exe
+G:\Work\MyObject\TopshelfDemo\bin\Debug\TopshelfDemo.pdb
+G:\Work\MyObject\TopshelfDemo\bin\Debug\log4net.dll
+G:\Work\MyObject\TopshelfDemo\bin\Debug\Topshelf.dll
+G:\Work\MyObject\TopshelfDemo\bin\Debug\Topshelf.Log4Net.dll
+G:\Work\MyObject\TopshelfDemo\bin\Debug\log4net.xml
+G:\Work\MyObject\TopshelfDemo\obj\Debug\TopshelfDemo.exe
+G:\Work\MyObject\TopshelfDemo\obj\Debug\TopshelfDemo.pdb

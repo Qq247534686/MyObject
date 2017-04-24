@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hangfire.SpringNet</id>
+    <version>1.0.1</version>
+    <title>Hangfire.SpringNet</title>
+    <authors>Imran Momin</authors>
+    <owners>Imran Momin</owners>
+    <licenseUrl>https://github.com/imranmomin/Hangfire.SpringNet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/imranmomin/Hangfire.SpringNet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Spring.Net IoC Container support for Hangfire (background job system for ASP.NET applications).</description>
+    <summary />
+    <language>en-US</language>
+    <tags>Hangfire Spring.Net IoC</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Spring.Core" version="2.0.1" />
+        <dependency id="Hangfire.Core" version="1.6.6" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Layout</title>
+    @Styles.Render("/Content/bootstrap-theme.min.css")
+    @Styles.Render("/Content/bootstrap.min.css")
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <a class="navbar navbar-brand" href="#">SPORTS STORE</a>
+    </div>
+    <div class="row panel">
+        <div class="col-xs-4">
+           LEFT
+        </div>
+        <div class="col-xs-8">
+            RIGHT
+        </div>
+    </div>
+</body>
+</html>

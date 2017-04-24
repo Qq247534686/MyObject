@@ -1,0 +1,107 @@
+2017-02-16 17:15:56,915 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:15:56,951 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:15:57,126 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:15:57,133 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:15:57,370 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:16:27,361 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:16:27,396 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:16:27,564 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:16:27,570 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:16:27,799 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:19:19,893 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:19:19,930 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:19:20,103 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:19:20,109 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:19:20,421 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:21:59,336 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:21:59,416 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:21:59,774 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:21:59,780 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:22:00,184 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:22:40,588 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:22:40,623 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:22:40,789 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:22:40,796 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:22:41,173 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:22:41,222 [QuartzTest_Worker-1] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:22:42,000 [QuartzTest_Worker-2] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:22:45,000 [QuartzTest_Worker-3] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:22:48,000 [QuartzTest_Worker-4] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:22:51,000 [QuartzTest_Worker-5] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:22:54,000 [QuartzTest_Worker-6] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:23:11,609 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:23:11,643 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:23:11,821 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:23:11,827 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:23:12,170 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:23:12,221 [QuartzTest_Worker-1] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:23:15,000 [QuartzTest_Worker-2] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:24:16,453 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:24:16,488 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:24:16,661 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:24:16,667 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:24:16,992 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:24:17,041 [QuartzTest_Worker-1] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:24:18,000 [QuartzTest_Worker-2] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:24:21,002 [QuartzTest_Worker-3] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:24:24,000 [QuartzTest_Worker-4] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:26:09,438 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:26:09,474 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:26:09,638 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:26:09,645 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:26:09,972 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:26:10,021 [QuartzTest_Worker-1] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:26:12,000 [QuartzTest_Worker-2] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:27:43,589 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:27:43,624 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:27:43,825 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:27:43,832 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:27:43,977 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:27:58,176 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-02-16 17:27:58,211 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.0.105.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-02-16 17:27:58,381 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-02-16 17:27:58,387 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:27:58,711 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-02-16 17:27:58,760 [QuartzTest_Worker-1] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname2017-02-16 17:28:00,000 [QuartzTest_Worker-2] INFO  Quartz_Topshelf.TestJob - TestJob测试
+ Quartz_Topshelf.TestJobname
